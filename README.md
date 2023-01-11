@@ -29,5 +29,5 @@ Our study will help the educational institutes in knowing whether mandating vide
  
 - Code of our analysis: [Code](/A_B_Testing_Project.ipynb)
 - Final Presentation: <a href= "/A_B Testing Slides.pdf"> Slides </a>
-- Our Analysis: [Report](/AB Testing Final Report.pdf)
+- Our Analysis: <a href= "/AB Testing Final Report.pdf"> Report </a>
 
