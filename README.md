@@ -27,6 +27,6 @@ For each subject, we computed the % of correct answers in the pre-quiz and post-
 Our study will help the educational institutes in knowing whether mandating video-on mode during remote classes is beneficial for learning outcomes of the students or not. An example of the problem this A/B testing is trying to study is that people who watch the video, and have their cameras recording on, might focus less on the content of the educational video and they might  look momentarily at their own selves due to self-consciousness. This can impact their learning and in our study affect the number of correct quiz answers that they give. Whereas someone who is solely focused on one part of the screen which is the video, and can’t view his or her own camera recording, will be able to concentrate better on the content of the video. This could be the other way round too. Through our study, we will be able to comment on learning outcomes when being recorded and how these are different based on genders.
  
  
-Here's the code of our analysis: [Code](/A_B_Testing_Project.ipynb)
-Presentation: [Presentation](/A_B Testing Slides.pdf)
-Report: [Report](/AB Testing Final Report.pdf)
+- Code of our analysis: [Code](/A_B_Testing_Project.ipynb)
+- Presentation: [Presentation](/A_B Testing Slides.pdf)
+- Report: [Report](/AB Testing Final Report.pdf)
